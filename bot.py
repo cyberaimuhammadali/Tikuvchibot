@@ -282,10 +282,10 @@ async def yordam(update: Update, context: ContextTypes.DEFAULT_TYPE):
 async def boglanish(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text(
         "📞 *Bog'lanish*\n\n"
-        "📱 Telefon: +998 XX XXX XX XX\n"
-        "💬 Telegram: @tikuvchi_username\n"
-        "📍 Manzil: Toshkent sh.\n\n"
-        "🕘 Ish vaqti: 9:00 — 19:00",
+        "📱 Telefon: +998 90 301 00 29\n"
+        "💬 Telegram: @@Yoldasnev"
+        "📍 Manzil: Oltiariq markaziy bog' orqasi"
+        "🕘 Ish vaqti: 9:00 — 17:00",
         parse_mode="Markdown"
     )
 
